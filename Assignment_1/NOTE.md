@@ -1,1 +1,1 @@
-* CodeCademy 스크린샷을 넣어주세요.
+* CodeCademy 수강완료 스크린샷을 넣어주세요.

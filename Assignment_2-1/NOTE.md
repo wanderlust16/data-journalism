@@ -1,1 +1,1 @@
-* jupyter notebook 파일을 압축없이 넣어주세요.
+* Jupyter Notebook 파일을 압축없이 넣어주세요.

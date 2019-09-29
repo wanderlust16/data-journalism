@@ -1,0 +1,18 @@
+from dragon import Dragon
+
+dragon = Dragon()
+dragon.feed()
+dragon.walk()
+dragon.toss()
+dragon.toss()
+dragon.rock()
+dragon.put_to_bed()
+dragon.put_to_bed()
+dragon.feed()
+dragon.feed()
+dragon.put_to_bed()
+dragon.put_to_bed()
+dragon.put_to_bed()
+dragon.put_to_bed()
+dragon.put_to_bed()
+dragon.put_to_bed()

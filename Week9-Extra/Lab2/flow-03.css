@@ -1,0 +1,20 @@
+#box1 {
+	width: 200px;
+	height: 100px;
+	border: 1px solid silver;
+	float: right;
+}
+
+#box2 {
+	width: 200px;
+	height: 100px;
+	border: 1px solid silver;
+	/*float: left;*/
+}
+
+#box3 {
+	width: 200px;
+	height: 100px;
+	border: 1px solid silver;
+	/*float: left;*/
+}

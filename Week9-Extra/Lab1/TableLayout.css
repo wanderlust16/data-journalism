@@ -1,0 +1,8 @@
+#logo { font-family:Arial; font-size:100px; color:#FFFFFF; font-weight:bold}
+#menu th { border-bottom:3px solid #FFFFFF; font-family:Arial; font-size:24px; font-weight:bold; color: #FFFF00; text-align:left}
+#menu td { border-bottom:1px dotted #FFFFFF; font-family:Arial; font-size:14px; font-weight:bold; color:#FFFFFF}
+#contents th {border-bottom:3px solid #FFFFFF; font-family:Arial; font-size:24px; font-weight:bold; color: #FFFF00; text-align:left; background:#666666}
+#contents td { font-family: Verdana; font-size:12px; line-height:150%; color:#FFFFFF; text-align:justify}
+#links th {border-bottom:3px solid #FFFFFF; font-family:Arial; font-size:24px; font-weight:bold; color: #FFFF00; text-align:left; background:#666666}
+#links td { font-family: Verdana; font-size:12px; line-height:150%; color:#FFFFFF; text-align:justify}
+#copy { font-family: Verdana; font-size:50px; font-weight:bold; color:#FFFFFF; }

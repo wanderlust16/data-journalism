@@ -1,0 +1,28 @@
+body {
+	width: 400px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+h1 {
+	color: orange;
+}
+
+#box1 {
+	width: 300px;
+	height: 200px;
+	border: 1px solid silver;
+	margin-left: 30px;
+	margin-bottom: 10px;
+}
+
+#box2 {
+	width: 300px;
+	height: 200px;
+	border: 1px solid silver;
+	padding-top: 30px;
+}
+
+hr {
+	margin: 0;
+	border-top-color: red;
+}

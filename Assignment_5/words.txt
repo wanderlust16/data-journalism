@@ -1,0 +1,488 @@
+close but no cigar
+1.아슬아슬한
+2.매우 근접한
+3.아주 가까운
+
+===
+bird fancier
+1.애조가
+2.새 장수
+
+===
+@
+1.단가 …으로
+2.…당
+3.…의
+
+===
+calcination
+1.하소
+2.석회 소성
+3.소성
+
+===
+Chelyabinsk
+첼랴빈스크
+
+===
+best man
+1.신랑 들러리
+2.최적임자
+
+===
+antimony trioxide
+1.삼산화안티몬
+2.방화 도료의 원료
+
+===
+blue note
+1.블루 노트
+2.반음을 내린 제3음도 또는 제7음도
+
+===
+compensator
+1.보상기
+2.보정기
+3.배상자
+
+===
+carrying capacity
+1.적재량
+2.수용력
+3.송전력
+
+===
+bubble wrap
+1.공기쿠션 포장팩
+2.뽁뽁이
+3.버블랩
+4.기포 비닐랩
+
+===
+clandestine
+1.비밀의
+2.은밀한
+3.비밀히 행해지는
+
+===
+Circumlocution Office
+번문 욕례청
+
+===
+clever boots[clogs, sides, sticks]
+1.영리한 사람
+2.재간꾼
+3.민완가
+
+===
+cobweb page
+오랫동안 업데이트를 하지 않은 웹 페이지
+
+===
+angel food cake
+쉬폰 케익
+
+===
+client state
+1.의존국
+2.종속국
+
+===
+controlled economy
+통제 경제
+
+===
+afterbeat
+1.뒷장단
+2.애프터비트
+3.후박
+
+===
+capitulant
+1.투항자
+2.항복한 사람
+
+===
+blotched
+1.얼룩이 진
+2.얼룩진
+
+===
+bitchery
+1.심술궂은 행위
+2.심술궂은 짓
+3.심술
+
+===
+CD-ROM
+시디롬
+
+===
+bigarreau
+1.그 나무
+2.비가로버찌
+3.비가로종 버찌
+
+===
+contradictive
+1.모순된
+2.반박적인
+3.모순되는
+
+===
+clean copy
+1.청서
+2.정서
+3.정확한 사본
+
+===
+antidepressant
+1.항울제
+2.항울의
+3.항울성의
+
+===
+accordion pleats
+1.아코디언 플리츠
+2.좁다란 주름
+
+===
+cooperativity
+협동성
+
+===
+avian pneumoencephalitis
+닭 폐뇌염
+
+===
+Catholic Epistles
+공동서한
+
+===
+cap. moll.
+연질 캡슐
+
+===
+chaunt
+1.외치다
+2.구호
+3.노래를 부르다
+4.외다
+5.기도하다
+
+===
+Brasil
+1.Brazil의 포르투갈어 철자
+2.brazil
+
+===
+bedding plant
+화단용 화초
+
+===
+America's Cup
+아메리카 컵
+
+===
+combine harvester
+1.복식 수확기
+2.베어서 탈곡하는 농기계
+
+===
+Body of Christ
+1.그리스도의 몸
+2.크리스트 교회
+3.그리스도를 믿는 사람들
+
+===
+bus line
+1.버스 회사
+2.버스 노선
+3.버스 운행 노선
+
+===
+concrete jungle
+콘크리트 정글
+
+===
+antichoice
+1.임신 중절에 반대하는
+2.낙태반대파
+
+===
+bear claw
+베어 클로
+
+===
+Belinda
+여자 이름
+
+===
+caliph
+칼리프
+
+===
+brother-in-arms
+1.전우
+2.친한 동료
+
+===
+borax pentahydrate
+붕사의 오수화물
+
+===
+1099
+1099
+
+===
+attenuator
+감쇠기
+
+===
+arithmancy
+수점
+
+===
+blond
+금발의
+
+===
+androgen
+1.남성 호르몬 물질
+2.안드로겐
+3.남성 호르몬
+
+===
+canonical dress
+1.교회법상의
+2.제복
+3.규범적인
+
+===
+Christmas stocking
+크리스마스 양말
+
+===
+actinomycosis
+1.방선균증
+2.악티노미세스증
+
+===
+absolute impediment
+절대적 혼인 장애
+
+===
+chivalrous
+1.용기 있고 예의바른
+2.기사도에 맞는
+3.용감한
+
+===
+antatrophic
+위축 예방의
+
+===
+chuffing
+소리떨림 연소
+
+===
+bird of freedom
+자유의 새
+
+===
+Birmingham
+1.버밍엄
+2.버밍햄
+
+===
+budget account
+1.할부 계좌
+2.자동 지급 계좌
+3.월부 계좌
+
+===
+biquadrate
+1.4제곱한 것
+2.사승멱
+
+===
+all-black
+1.흑인 전용의
+2.흑인만의
+
+===
+chicanery
+1.발뺌
+2.핑계
+3.속임수
+
+===
+cornfield
+1.옥수수밭
+2.보리밭
+3.곡물밭
+
+===
+communal bereavement
+공동 사별
+
+===
+cathedral
+1.대성당
+2.주교좌의
+
+===
+can it
+1.조용히 하다
+2.입을 다물다
+
+===
+Angell
+에인젤
+
+===
+Communion service
+성찬식
+
+===
+audio-gram
+청력도
+
+===
+convert
+1.전환하다
+2.바꾸다
+3.개조하다
+4.개종하다
+5.득점하다
+
+===
+biquarterly
+3개월에 2회 일어나는
+
+===
+carbon-nitrogen cycle
+1.탄소 순환
+2.탄소 사이클
+
+===
+amaranth
+1.영원히 시들지 않는 꽃
+2.아마란스
+3.아마란서스
+
+===
+coal cellar
+1.지하 석탄 저장고
+2.지하 석탄고
+
+===
+catenoid
+현수면
+
+===
+American Medical Association
+1.미국 의사 협회
+2.(약어)AMA
+
+===
+Calvados
+칼바도스
+
+===
+cock-a-doodle-doo
+1.꼬끼오
+2.수탉의 울음소리
+3.꼬꼬
+
+===
+chemo
+화학 요법(chemotherapy,「화학」「화학적으로 발생시킨」의 뜻)
+
+===
+carpetbeater
+양탄자 청소원
+
+===
+airshed
+1.한 지역의 대기
+2.대기 분수계
+
+===
+Acis
+1.Associate of the Chartered Institute of Secretaries
+2.아키스
+
+===
+classification yard
+철도 조차장
+
+===
+Coke-bottle (glasses)
+두꺼운 렌즈의 안경
+
+===
+Àfro-American
+미국인
+
+===
+booster cable
+부스터 케이블
+
+===
+broche
+1.양단으로 짠
+2.양단
+3.금란
+
+===
+commutual
+상호간의
+
+===
+contrabassoon
+콘트라바순
+
+===
+angioscope
+혈관 내시경
+
+===
+bad language
+1.상소리
+2.욕설
+
+===
+Baisakh
+1.힌두력의 2월
+2.바이사크
+3.그레고리오력의 4-5월
+
+===
+conscriptable
+징병이 가능한
+
+===
+cart whip
+1.큰 채찍
+2.굵은 채찍
+
+===
+cooking top
+4개의 버너가 달린 캐비닛형 레인지
+
+===
+battering train
+공성 포열
+
+===
+absorptivity
+1.흡수성
+2.흡수율
+3.흡광률
+
+===
+college-preparatory
+대학 입학 준비의
+
+===

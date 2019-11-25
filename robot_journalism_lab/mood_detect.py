@@ -1,4 +1,5 @@
-class Mood(object):
+class Mood(object): 
+    # 로직이 좋지 않음. 여러분이 잘 짜세요~
 
     GENERIC   = 1
     HIGH_TEMP = 2

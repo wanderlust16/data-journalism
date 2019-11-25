@@ -1,10 +1,10 @@
+# -*- coding: utf-8 -*-
 from crawler import Crawler
 from events import Events
 from mood_detect import Mood
 from article import Article
 
 crawler = Crawler()
-
 # 데이터 수집
 weather_data = crawler.weather_fetch()
 fine_dust_data = crawler.fine_dust_fetch("관악구")
@@ -13,11 +13,11 @@ print(weather_data)
 print(fine_dust_data)
 
 # 날씨 이벤트 처리
-weather_events = Events(weather_data, Events.WEATHER)
+weather_events = Events(weather_data, Events.WEATHER) # weather_data를 Event에 파라미터로 던져줌
 weather_events.process_events()
 
 # 미세먼지 이번트 처리
-dust_events = Events(fine_dust_data, Events.FINE_DUST)
+dust_events = Events(fine_dust_data, Events.FINE_DUST) # fine_dust_data를 Event에 파라미터로 던져줌
 dust_events.process_events()
 
 # 데이터 체크

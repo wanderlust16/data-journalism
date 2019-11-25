@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import urllib.request
 from urllib import parse
 import json
@@ -11,7 +12,7 @@ class Crawler(object):
     def weather_fetch(self, city="Seoul"):
         self.city = city
 
-        app_key = "your_key"
+        app_key = "781da3bc7b2aeb07cebe04999a760842"
         loc = self.city
         url = "http://api.openweathermap.org/data/2.5/weather?q={}&units=metric&appid={}".format(loc, app_key)
 
@@ -23,7 +24,7 @@ class Crawler(object):
     def fine_dust_fetch(self, region=None):
         self.county = region
 
-        app_key = "your_key"
+        app_key = "781da3bc7b2aeb07cebe04999a760842"
         loc = self.county
         url = "http://openapi.airkorea.or.kr/openapi/services/rest/ArpltnInforInqireSvc/getMsrstnAcctoRltmMesureDnsty?stationName={}&dataTerm=month&pageNo=1&numOfRows=1&ServiceKey={}&ver=1.3&_returnType=json".format(
             parse.quote(loc), app_key)

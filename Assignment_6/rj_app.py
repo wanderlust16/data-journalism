@@ -8,9 +8,11 @@ crawler = Crawler()
 # 데이터 수집
 weather_data = crawler.weather_fetch()
 fine_dust_data = crawler.fine_dust_fetch("관악구")
+suntime_data = crawler.suntime_fetch()
 
 # print(weather_data)
 # print(fine_dust_data)
+# print(suntime_data)
 
 # 날씨 이벤트 처리
 weather_events = Events(weather_data, Events.WEATHER) # weather_data를 Event에 파라미터로 던져줌
@@ -19,6 +21,9 @@ weather_events.process_events()
 # 미세먼지 이번트 처리
 dust_events = Events(fine_dust_data, Events.FINE_DUST) # fine_dust_data를 Event에 파라미터로 던져줌
 dust_events.process_events()
+
+# 일출일몰 이벤트 처리
+# suntime_hour = 
 
 # 데이터 체크
 # print(weather_events.temp)

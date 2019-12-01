@@ -3,6 +3,7 @@ import urllib.request
 from urllib import parse
 import xmltodict
 import json
+from datetime import datetime
 
 class Crawler(object):
 
@@ -23,6 +24,7 @@ class Crawler(object):
         return self.weather_data
 
     def fine_dust_fetch(self, region=None):
+        
         self.county = region
 
         app_key = "8lIGqoS22kKzjgQfH6bZ7%2BwPTDBseufM2JRTbACt760ve%2BUAlMVkbhB1Qs9CgifiTKsAllvBikUfw9L5umSp7g%3D%3D"
@@ -36,13 +38,14 @@ class Crawler(object):
 
         return self.fine_dust_data
 
-    def suntime_fetch(self, city="서울", date="20191129"):
+    def suntime_fetch(self, city="서울", date="20191201"):
         self.city = city
         self.date = date
 
         app_key  = "8lIGqoS22kKzjgQfH6bZ7%2BwPTDBseufM2JRTbACt760ve%2BUAlMVkbhB1Qs9CgifiTKsAllvBikUfw9L5umSp7g%3D%3D"
         loc      = "서울"
-        date     = "20191129"
+        now = datetime.now()
+        date = now.strftime("%Y%m%d")
         base_url = "http://apis.data.go.kr/B090041/openapi/service/RiseSetInfoService/getAreaRiseSetInfo?location={}&locdate={}&ServiceKey={}".format(parse.quote(loc), date, app_key).encode('utf-8')
 
         with urllib.request.urlopen(base_url.decode('ASCII')) as response:

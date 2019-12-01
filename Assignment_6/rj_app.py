@@ -23,15 +23,18 @@ dust_events = Events(fine_dust_data, Events.FINE_DUST) # fine_dust_data를 Event
 dust_events.process_events()
 
 # 일출일몰 이벤트 처리
-# suntime_hour = 
+suntime_events = Events(suntime_data, Events.SUNTIME)
+suntime_events.process_events()
 
 # 데이터 체크
 # print(weather_events.temp)
+# print(weather_events.cloud)
 # print(dust_events.dust_grade)
+# print(suntime_events.sunrise)
 
 
 # Mood detection을 위한 날씨 정보 데이터 구축
-weather_info = (weather_events.temp, dust_events.dust_value)
+weather_info = (weather_events.temp, dust_events.dust_value, weather_events.cloud)
 address = dust_events.location
 
 # Mood decision
@@ -40,5 +43,5 @@ template = mood.decision(weather_info)
 # print(template)
 
 # 기사 생성
-article = Article(template, address, weather_events, dust_events)
+article = Article(template, address, weather_events, dust_events, suntime_events)
 print(article.generate())

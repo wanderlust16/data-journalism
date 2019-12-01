@@ -1,2 +1,2 @@
-# 필요한 모듈
+# Module Required
 - xmltodict (pip install xmltodict)
